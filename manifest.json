@@ -1,6 +1,6 @@
 {
-  "version": "1.8.0",
-  "changelog": "system model update automatic | more type of truss | diagram placement of column builder | preview and direction control for hole builder | more profile",
-  "download_url": "https://github.com/Anzia-Studio-Tech/Anzia-Structure-Builder-Update/releases/download/v1.8.0/anzia_structure_builder_v1_8_0.rbz",
+  "version": "2.0.0",
+  "changelog": "Tambahan fitur Quantity Calculation | peningkatan grid maker | tambahan fitur kolom silinder | perbaikan layer/tags metaldeck | Perbaikan profile truss",
+  "download_url": "https://github.com/Anzia-Studio-Tech/Anzia-Structure-Builder-Update/releases/download/v2.0.0/anzia_structure_builder_v2.0.0.rbz",
   "min_sketchup_version": "2021"
 }
