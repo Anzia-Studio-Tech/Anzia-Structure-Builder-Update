@@ -1,6 +1,6 @@
 {
-  "version": "2.0.0",
-  "changelog": "Tambahan fitur Quantity Calculation | peningkatan grid maker | tambahan fitur kolom silinder | perbaikan layer/tags metaldeck | Perbaikan profile truss",
-  "download_url": "https://github.com/Anzia-Studio-Tech/Anzia-Structure-Builder-Update/releases/download/v2.0.0/anzia_structure_builder_v2_0_0.rbz",
+  "version": "2.1.0",
+  "changelog": "perbaikan bug quantity calculation - perubahan grup parent menjadi component parent footing - tambahan fitur build'in path pada truss generator - tambahan fitur move dialog to center viewport",
+  "download_url": "https://github.com/Anzia-Studio-Tech/Anzia-Structure-Builder-Update/releases/download/v2.1.0/anzia_structure_builder_v2_1_0.rbz",
   "min_sketchup_version": "2021"
 }
