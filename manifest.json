@@ -1,6 +1,6 @@
 {
   "version": "2.2.0",
-  "changelog": (
+  "changelog": [
   "1. Tambahan system' joint dan multi path pada foundation Builder",
   "2. Tambahan system' joint dan multi path pada half-foundation Builder",
   "3. Tambahan system' joint dan multi path pada beam Builder",
@@ -10,7 +10,7 @@
   "7. Tambahan parameter elevasi dan multi profile pada ceiling builder untuk membedakan dimensi profile pada arah x dan arah y",
   "8. Perbaikan preview model pada foundation Builder, half-foundation Builder, dan beam Builder",
   "9. Tambahan system' joint Dan multipath pada wall builder",
-  ),
+  ],
   "download_url": "https://github.com/Anzia-Studio-Tech/Anzia-Structure-Builder-Update/releases/download/v2.2.0/anzia_structure_builder_v2_2_0.rbz",
   "min_sketchup_version": "2021"
 }
