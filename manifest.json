@@ -1,16 +1,17 @@
 {
   "version": "2.2.0",
   "changelog": [
-  "1. Tambahan system' joint dan multi path pada foundation Builder",
-  "2. Tambahan system' joint dan multi path pada half-foundation Builder",
-  "3. Tambahan system' joint dan multi path pada beam Builder",
-  "4. Pembacaan volume struktur baja IWF, H-Beam, CNP, UNP dalam satuan berat (Kg) pada Quantity calculation",
-  "5. Pembacaan volume rangka atap baja ringan dalam satuan luas (M2) pada Quantity calculation",
-  "6. Pembacaan volume rangka atap kayu dalam satuan (M3) pada Quantity calculation",
-  "7. Tambahan parameter elevasi dan multi profile pada ceiling builder untuk membedakan dimensi profile pada arah x dan arah y",
-  "8. Perbaikan preview model pada foundation Builder, half-foundation Builder, dan beam Builder",
-  "9. Tambahan system' joint Dan multipath pada wall builder",
+    "1. Tambahan system joint dan multi path pada foundation Builder",
+    "2. Tambahan system joint dan multi path pada half-foundation Builder",
+    "3. Tambahan system joint dan multi path pada beam Builder",
+    "4. Pembacaan volume struktur baja IWF, H-Beam, CNP, UNP dalam satuan berat (Kg) pada Quantity Calculation",
+    "5. Pembacaan volume rangka atap baja ringan dalam satuan luas (M2) pada Quantity Calculation",
+    "6. Pembacaan volume rangka atap kayu dalam satuan volume (M3) pada Quantity Calculation",
+    "7. Tambahan parameter elevasi dan multi profile pada Ceiling Builder untuk membedakan dimensi profile pada arah X dan arah Y",
+    "8. Perbaikan preview model pada Foundation Builder, Half-Foundation Builder, dan Beam Builder",
+    "9. Tambahan system joint dan multi path pada Wall Builder"
   ],
   "download_url": "https://github.com/Anzia-Studio-Tech/Anzia-Structure-Builder-Update/releases/download/v2.2.0/anzia_structure_builder_v2_2_0.rbz",
   "min_sketchup_version": "2021"
 }
+
