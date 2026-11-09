@@ -1,6 +1,14 @@
 {
-  "version": "2.1.0",
-  "changelog": "perbaikan bug quantity calculation - perubahan grup parent menjadi component parent footing - tambahan fitur build'in path pada truss generator - tambahan fitur move dialog to center viewport",
-  "download_url": "https://github.com/Anzia-Studio-Tech/Anzia-Structure-Builder-Update/releases/download/v2.1.0/anzia_structure_builder_v2_1_0.rbz",
+  "version": "2.2.0",
+  "changelog": "1. Tambahan system' joint dan multi path pada foundation Builder",
+               "2. Tambahan system' joint dan multi path pada half-foundation Builder",
+               "3. Tambahan system' joint dan multi path pada beam Builder",
+               "4. Pembacaan volume struktur baja IWF, H-Beam, CNP, UNP dalam satuan berat (Kg) pada Quantity calculation",
+               "5. Pembacaan volume rangka atap baja ringan dalam satuan luas (M2) pada Quantity calculation",
+               "6. Pembacaan volume rangka atap kayu dalam satuan (M3) pada Quantity calculation",
+               "7. Tambahan parameter elevasi dan multi profile pada ceiling builder untuk membedakan dimensi profile pada arah x dan arah y",
+               "8. Perbaikan preview model pada foundation Builder, half-foundation Builder, dan beam Builder",
+               "9. Tambahan system' joint Dan multipath pada wall builder",
+  "download_url": "https://github.com/Anzia-Studio-Tech/Anzia-Structure-Builder-Update/releases/download/v2.2.0/anzia_structure_builder_v2_2_0.rbz",
   "min_sketchup_version": "2021"
 }
